@@ -94,6 +94,7 @@ Global-Superstore-PowerBI-Dashboard/
 │
 ├── images/
 │   └── dashboard.png
+│   └── dashboard_powerbi.png
 │
 ├── Global_Superstore_Dashboard.pbix
 │
