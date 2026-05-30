@@ -92,6 +92,8 @@ Global-Superstore-PowerBI-Dashboard/
 ├── data/
 │   └── Global_Superstore.xls
 │
+│──.gitignore
+│
 ├── images/
 │   └── dashboard.png
 │   └── dashboard_powerbi.png
